@@ -31,9 +31,6 @@ MongoDB (local or cloud)
 
 Steps
 
-Clone the repository:
-
-git clone https://github.com/your-repo/ecommerce-platform.git
 
 Navigate to the project directory:
 
